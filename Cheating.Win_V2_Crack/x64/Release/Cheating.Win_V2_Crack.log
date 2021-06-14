@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: la directory intermedia (x64\Release\) contiene file condivisi da un altro progetto (Cheating.Win_V2_Crack.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Generazione codice in corso...
+  88 of 782 functions (11.3%) were compiled, the rest were copied from previous compilation.
+    86 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  Cheating.Win_V2_Crack.vcxproj -> C:\Users\yatzu\Desktop\Cheating.win-V2-main\x64\Release\YATZU.exe
